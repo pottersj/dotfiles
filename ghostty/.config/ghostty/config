@@ -63,6 +63,6 @@ cursor-style-blink = true
 background-opacity = .90
 background-blur = true
 
-#theme = "catppuccin-mocha"
-theme = "catppuccin-macchiato"
+theme = "catppuccin-mocha"
+#theme = "catppuccin-macchiato"
 shell-integration-features = no-cursor, sudo, no-title
